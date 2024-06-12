@@ -1,3 +1,5 @@
+Traditional Chinese Version: [![Static Badge](https://img.shields.io/badge/lang-zh--tw-yellow)](https://github.com/Unforgettableeternalproject/Unforgettableeternalproject/blob/main/README.zh-tw.md)
+
 ---
 
 # Hi there, I'm Bernie (U.E.P) 👋
