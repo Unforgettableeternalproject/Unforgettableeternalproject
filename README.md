@@ -18,6 +18,7 @@ I've created several applications which you can check out [here](https://github.
 ## Achievements
 
 - Participated in the International Olympiad in Informatics (IOI) 🏅
+- Created U.E.P (Unforgettable Eternal Project)
 
 ## Hobbies
 
