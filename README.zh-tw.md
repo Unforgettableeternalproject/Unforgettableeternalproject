@@ -1,4 +1,4 @@
-**英文版本**: [![Static Badge](https://img.shields.io/badge/lang-en-red)](https://github.com/Unforgettableeternalproject/Unforgettableeternalproject/blob/main/README.md)
+[![Static Badge](https://img.shields.io/badge/lang-en-red)](https://github.com/Unforgettableeternalproject/Unforgettableeternalproject/blob/main/README.md)
 
 ---
 
@@ -49,5 +49,28 @@
 我隨時歡迎與您建立聯繫和合作！ (✿◡‿◡)
 
 大概，我希望我不要太緊張。
+
+---
+
+## 超酷東西
+
+### 訪客人數:
+![Visitor Count](https://profile-counter.glitch.me/Unforgettableeternalproject/count.svg)
+
+<details>
+  <summary><b>📊 其他資料</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unforgettableeternalproject&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  </p>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unforgettableeternalproject&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  </p>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Unforgettableeternalproject&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </p>
+</details>
 
 ---
