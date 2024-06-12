@@ -24,7 +24,7 @@ I've created several applications which you can check out [here](https://github.
 Apart from coding, I have a variety of creative interests:
 - Making music 🎵
 - Writing novels 📚
-- Drawing 🎨
+- Drawing (Mainly Pixel Arts) 🎨
 
 You can explore more about my creative work through my [LinkTree](https://linktr.ee/unforgettableeternalproject).
 
@@ -34,6 +34,6 @@ I aim to meet new people, advance my skills, and pursue a better future in the t
 
 ## Contact Me
 
-Feel free to contact me via the social media links provided on my [LinkTree](https://linktr.ee/unforgettableeternalproject). I'm always open to connecting and collaborating! (✿◡‿◡)
+Please feel free to contact me through the social media links provided on my [LinkTree](https://linktr.ee/unforgettableeternalproject). I'm always open to connecting and collaborating! (✿◡‿◡)
 
 ---
